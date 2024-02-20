@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.68854911.css",
+    "main.js": "/portfolio/static/js/main.57d11d73.js",
+    "static/media/anime_img.png": "/portfolio/static/media/anime_img.504be1ea3d42ab0aec71.png",
+    "static/media/youtube_clone.png": "/portfolio/static/media/youtube_clone.80f8981af814824c5b3d.png",
+    "static/media/Murtaza_Resume1.pdf": "/portfolio/static/media/Murtaza_Resume1.7aa883f0cfad53294f68.pdf",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/weather.png": "/portfolio/static/media/weather.c88f34bf03ff51dfd694.png",
+    "index.html": "/portfolio/index.html",
+    "main.68854911.css.map": "/portfolio/static/css/main.68854911.css.map",
+    "main.57d11d73.js.map": "/portfolio/static/js/main.57d11d73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68854911.css",
+    "static/js/main.57d11d73.js"
+  ]
+}
